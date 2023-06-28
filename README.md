@@ -11,7 +11,6 @@
 
 - Web Full Stack Development 
 - Android & IOS Application
-- Operating System Kernel
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" /><b> Skills</b>
 
@@ -19,7 +18,7 @@
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,docker,figma,github,gitlab,html,java,js,jquery,kotlin,linux,md,materialui,mysql,nextjs,nestjs,nodejs,py,ocaml,selenium,sequelize,sketchup,react,vue,ts,vscode,androidstudio,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,github,gitlab,html,java,js,jquery,kotlin,linux,md,materialui,mysql,nextjs,nestjs,nodejs,py,ocaml,sequelize,sketchup,react,vue,ts,vscode,androidstudio,idea&perline=14" />
   </a>
 </p>   
 </p>
