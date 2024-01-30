@@ -31,7 +31,7 @@
 - (2020.05 ~ 2020.11) S-TOP 홈페이지 제작 (https://s-top.cs.skku.edu/s-top)
 - (2020.05 ~ 2020.11) 소프트웨어대학 연구논문·작품 온라인 발표회 홈페이지 제작 (https://cs.skku.ac.kr/gp)
 - (2020.06 ~ 2021.04) IT Global 화상강연 홈페이지 제작 (https://itglobal.cs.skku.edu/login)
-- (2023.03 ~ ) 성균관대학교 시스템 컨설턴트그룹 회장
+- (2023.03 ~ 2023.09) 성균관대학교 시스템 컨설턴트그룹 회장
 
 
 ## <img src="https://media2.giphy.com/media/9tsKCeqTx8eGGoQ7Pc/giphy.gif?cid=ecf05e47gk5o6umph41jlf2wlytb15bgn0jkvru9h5w5xy4m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="30" /><b> Contact</b>
